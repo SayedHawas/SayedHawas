@@ -4,7 +4,14 @@
 **SayedHawas/SayedHawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+👩‍💻 About Me
+       I'm Sayed hawas from Egypt
 
+- 🔭 I’m working as Developers Team Leader | Software Engineer with a demonstrated history of working in the software industry.
+- 📚 I'm Certification from Microsoft MCP MCTS MCPD MCSD MCT.
+- ⚡ In my free time I walk and wonder
+
+🛠 Language and tools
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
