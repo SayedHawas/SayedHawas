@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm ElSayed ElSayed Hawas</h1>
 <h3 align="center">A passionate Full Stack .Net developer from Egypt</h3>
 
