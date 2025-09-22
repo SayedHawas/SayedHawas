@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayed-hawas-9b3a0429/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.linkedin.com/in/sayed-hawas-9b3a0429/"  height="35" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sayedhawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sayedhawas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayed-hawas-9b3a0429/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.linkedin.com/in/sayed-hawas-9b3a0429/"  height="35" /></a>
+<a href="https://www.youtube.com/@sayedhawas" target="blank"><img align="center"   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"  alt="https://www.youtube.com/@sayedhawas" height="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
