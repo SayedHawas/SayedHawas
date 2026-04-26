@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.NET Core 10**
 
-- 👯 I’m looking to collaborate on [AK-Group](https://www.akg-eg.com/) &  [FASTRAK Egypt ERP System](https://fastrakegypt.com/)
+- 👯 I’m looking to collaborate on [AK-Group ERP System](https://www.akg-eg.com/) <!--  [FASTRAK Egypt ERP System](https://fastrakegypt.com/) -->
 
 - 💬 Ask me about **C# , .NET Core , SQL , Entity Framework , MVC , WebAPI , Angular**
 
